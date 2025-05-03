@@ -1,0 +1,6 @@
+this is ECommerce application
+we have 3 modules to develop
+1. Product Catalog
+2. Payment
+3. Cart
+4. Login and Logout
