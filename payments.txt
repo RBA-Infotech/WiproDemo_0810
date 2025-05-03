@@ -1,0 +1,7 @@
+//payment options
+1. upi
+2. credit card
+3. debit card
+3. net banking
+4. cod
+
