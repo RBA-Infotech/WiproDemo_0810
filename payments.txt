@@ -1,0 +1,6 @@
+//payment options
+2. credit card
+3. debit card
+3. net banking
+4. cod
+5. pod
